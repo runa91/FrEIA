@@ -1,3 +1,5 @@
+This is an older copy of https://github.com/VLL-HD/FrEIA, used within BARC.
+
 |Logo|
 
 .. image:: https://github.com/VLL-HD/FrEIA/workflows/CI/badge.svg
